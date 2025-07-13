@@ -1,11 +1,14 @@
+
+
 # Koloseum
 
 Koloseum is **an online esports platform that connects players, gaming lounges, and esports fans.** It enables individuals to track sessions at their local gaming lounge, compete in tournaments across various games, and shop for tickets and merchandise. Gaming lounges can use the platform to manage operations, track sessions, organise competitions, and act as competitive esports clubs.
 
 By streamlining offerings for players and lounges, Koloseum **boosts foot traffic, creates new revenue streams, and establishes lounges as key hubs in Kenya's esports ecosystem.**
 
-<div style="text-align: center; height: 250px; width: 100%;">
-    <img style="object-fit: contain;" src="./logo.png" height="100%" width="auto" alt="Koloseum logo">
+<br />
+<div align="center">
+    <img src="./logo.png" height="180px" width="auto" alt="Koloseum logo">
 </div>
 
 ## Our core purpose

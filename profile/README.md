@@ -1,5 +1,3 @@
-
-
 # Koloseum
 
 Koloseum is **an online esports platform that connects players, gaming lounges, and esports fans.** It enables individuals to track sessions at their local gaming lounge, compete in tournaments across various games, and shop for tickets and merchandise. Gaming lounges can use the platform to manage operations, track sessions, organise competitions, and act as competitive esports clubs.
@@ -19,9 +17,9 @@ Koloseum exists to redefine esports in Kenya by creating an inclusive platform t
 
 Koloseum **fosters vibrant connections among diverse gaming communities** through its distinct Markets:
 
-- **Ma Esto** for football enthusiasts
-- **Savanna FGC** for fighting game fans
-- **Hit List** (working title) for battle royale competitors
+-   **Ma Esto** for football enthusiasts
+-   **Savanna FGC** for fighting game fans
+-   **Hit List** (working title) for battle royale competitors
 
 By offering tailored services such as Leagues, Challenges, and Locals, Koloseum addresses the unique needs of each community while creating opportunities for grassroots growth, camaraderie, and a unified sense of belonging in the Kenyan gaming scene.
 

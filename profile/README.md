@@ -15,17 +15,17 @@ Koloseum exists to redefine esports in Kenya by creating an inclusive platform t
 
 ### Kommunities
 
-Koloseum **fosters vibrant connections among diverse gaming communities** through its distinct Markets:
+Koloseum **fosters vibrant connections among diverse gaming communities**:
 
 -   **Ma Esto** for football enthusiasts
 -   **Savanna FGC** for fighting game fans
 -   **Hit List** (working title) for battle royale competitors
 
-By offering tailored services such as Leagues, Challenges, and Locals, Koloseum addresses the unique needs of each community while creating opportunities for grassroots growth, camaraderie, and a unified sense of belonging in the Kenyan gaming scene.
+By offering tailored competitions services—including **Leagues**, **Challenges**, and **Locals**—Koloseum addresses the unique needs of each community while creating opportunities for grassroots growth, camaraderie, and a unified sense of belonging in the Kenyan gaming scene.
 
 ### Kompetition
 
-Koloseum **champions and advances the spirit of fair competition** by providing structured, accessible tournaments and events that enable players of all skill levels to showcase their abilities and grow their talents within the Koloseum ecosystem.
+Koloseum **champions and advances the spirit of fair competition** by providing structured, accessible tournaments and other competitive events that enable players of all skill levels to showcase their abilities and grow their talents within the Koloseum ecosystem.
 
 ### Kulture
 
